@@ -28,3 +28,5 @@ pip install -r requirements.txt
 Ejecutar pruebas:
 
 pytest
+
+Proyecto CRUD con CI/CD pipeline usando GitHub Actions
